@@ -2,10 +2,10 @@
 
   Projeto de uma calculadora de Índice de Massa Corporal (IMC), onde você coloca seu peso e sua altura em metros.
 
-Tecnologias usadas: HTML, CSS e JAVASCRIPT PURO!
-Responsivo? Não
+Tecnologias usadas: HTML, CSS e JAVASCRIPT PURO! <br>
+Responsivo? Não <br>
 Motivo: Como foi apenas um projeto de estudo e simplicado, não me preocupei em dar responsividade, pois seu real intuito era apenas testar alguns códigos
-e aprender novo métodos de estudo, apenas fiz este projeto para aprimar um pouco mais minhas skills.
+e aprender novo métodos de estudo, apenas fiz este projeto para aprimar um pouco mais minhas skills. 
 
 Tempo de produção: 2h ( duas horas)
 
