@@ -11,7 +11,7 @@ Tempo de produção: 2h ( duas horas)
 
 <h2>PROJETO</h2>
 Obs: Aqui abaixo mostra um exemplo de como deve se botar a altura e peso para funcionar. 
-</br>
+<br>
 <img src="https://user-images.githubusercontent.com/110071892/197244740-6a7c1839-8322-4d83-844d-7715fdbf7cf5.png" />
 
 <h2>HTML</h2>
