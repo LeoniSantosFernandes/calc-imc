@@ -5,7 +5,7 @@
 ⚙️ Tecnologias usadas: HTML, CSS e JAVASCRIPT PURO! <br>
 💻 Responsivo? Não <br>
 💻 Motivo: Como foi apenas um projeto de estudo e simplicado, não me preocupei em dar responsividade, pois seu real intuito era apenas testar alguns códigos
- e aprender novo métodos de estudo, apenas fiz este projeto para aprimar um pouco mais minhas skills. 
+ e aprender novo métodos de estudo, apenas fiz este projeto para aprimorar um pouco mais minhas skills e habilidades. 
 
  Tempo de produção: 2h ( duas horas)
 
